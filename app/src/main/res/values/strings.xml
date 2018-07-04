@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">address</string>
+    <string name="first_name">First Name</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="e_mail">E-mail</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender :</string>
+    <string name="result_view">Result View</string>
+
+</resources>
